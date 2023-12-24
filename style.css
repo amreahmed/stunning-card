@@ -103,3 +103,19 @@ input:checked + label .description {
 .card[for="c4"] {
   background-image: url("./AdobeStock_659869527_Preview.jpeg");
 }
+.card[for="c5"] {
+    background-image: url("./AdobeStock_659869527_Preview.jpeg");
+  }
+
+  .card[for="c6"] {
+    background-image: url("./AdobeStock_659869527_Preview.jpeg");
+  }
+
+  .card[for="c7"] {
+    background-image: url("./AdobeStock_659869527_Preview.jpeg");
+  }
+
+  .card[for="c8"] {
+    background-image: url("./AdobeStock_659869527_Preview.jpeg");
+  }
+  
